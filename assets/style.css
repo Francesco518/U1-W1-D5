@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    
+}
+
+.contenitore  {
+    text-align: center;
+    height: 100%;
+    margin-inline: auto;
+}
+
+.box {
+    background-color: black;
+    padding: 25px;
+}
+
+.box img {
+    width: 200px;
+}
+
+.second-box {
+   width: 100%;
+   height: 100%;
+   box-sizing: border-box;
+   padding: 40px;
+   background-image: url(./img/banner.jpg);
+   background-size: cover;
+   
+}
+
+.headings {
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;;
+    line-height: 1.5rem;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+}
+
+.first-paragraph {
+   margin-top: 30px;
+}
+
+.button-content {
+    margin-top: 20px;
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    border: none;
+}
+
+
+
+.first-image {
+    border-radius: 50%;
+    width: 300px;
+}
+
+.third-box {
+    text-align: center;
+    padding: 20px;
+}
+
+.main-content {
+    padding: 30px;
+}
+
+.fourth-box {
+    background-color: #e22d0e;
+    color: white;
+    padding: 20px;
+}
+
+.headings-second {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.smaller-headings {
+    margin-top: 30px;
+}
+
+.fifth-headings {
+    font-size: 0.8rem;
+}
+
+.fifth-box {
+    width: 400px;
+    height: 100%;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    margin-inline: auto;
+    border: 1px solid #dee1e3;
+}
+
+.second-image {
+    width: 100%;
+}
+
+.sixth-box {
+    width: 400px;
+    height: 100%;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    margin-inline: auto;
+    border: 1px solid #dee1e3;
+}
+
+.third-image {
+    width: 100%;
+}
+
+.second-paragraphs {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.seventh-box {
+    width: 400px;
+    height: 100%;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    margin-inline: auto;
+    border: 1px solid #dee1e3;
+}
+
+.fourth-image {
+    width: 100%;
+}
+
+.eighth-box {
+    background-color: #25a2c3;
+    color: #c8e7f0;
+    padding: 50px;
+}
+
+.footer-headings {
+    color: white;
+    padding-top: 2rem;
+    font-size: 1.7rem;
+}
+
+.fifth-head {
+    margin-top: 30px;
+}
